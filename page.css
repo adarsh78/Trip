@@ -43,7 +43,7 @@ body {
 }
 
 .img_1{
-  background-image: url("assets/img1.jpeg");
+  background-image: url("/assets/img1.jpg");
   background-color: #cccccc;
   height: 500px;
   background-position: center;
